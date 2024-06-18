@@ -7,3 +7,4 @@ Taken with Vince Fitzgerald, Summer 2024.
 * [Sentence Fragments](./sentence-fragments.html)
 * [Writing tips: Essay 1](./essay-1-writing-tips-1.html)
 * [Run-on Sentences and Comma Splices](run-on-sentences-and-comma-splices.html)
+* [Pronouns](./Pronouns.html)
