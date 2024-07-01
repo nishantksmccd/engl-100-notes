@@ -10,3 +10,7 @@ Taken with Vince Fitzgerald, Summer 2024.
 * [Pronouns](./Pronouns.html)
 * [Pronoun Case](./Pronoun Case.html)
 * [Writing Tips: Essay 2](./essay-2-writing-tips.html)
+* [Commas](./Commas.html)
+* [Comma Usage](./Comma Usage.html)
+* [Adjectives](./Adjectives.html)
+* 
