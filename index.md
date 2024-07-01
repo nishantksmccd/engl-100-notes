@@ -13,4 +13,3 @@ Taken with Vince Fitzgerald, Summer 2024.
 * [Commas](./Commas.html)
 * [Comma Usage](./Comma Usage.html)
 * [Adjectives](./Adjectives.html)
-* 
