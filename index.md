@@ -21,3 +21,5 @@ Taken with Vince Fitzgerald, Summer 2024.
 * [View and Download (Google Drive PDF)](https://drive.google.com/file/d/1opxRmYq3QFPB77sCFSzUN7tuesyniL8A/view?usp=sharing)
 * [Direct Download (EPUB)](./The Happiness Project.epub)
 * [Direct Download (PDF)](./The Happiness Project.pdf)
+* [Chapter-by-chapter summary](https://www.getstoryshots.com/books/the-happiness-project-summary/)
+* [Shorter summary](https://www.supersummary.com/the-happiness-project-or-why-i-spent-a-year-trying-to-sing-in-the-morning-clean-my-closets-fight-right-read-aristotle-and-generally-have-more-fun/summary/)
