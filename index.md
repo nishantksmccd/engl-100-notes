@@ -13,6 +13,8 @@ Taken with Vince Fitzgerald, Summer 2024.
 * [Commas](./Commas.html)
   * [Comma Usage Quick Guide](./Comma Usage.html)
 * [Adjectives](./Adjectives.html)
+* [Writing Tips: Essay 3](./Essay 3 Writing Tips.html)
+* [Modifiers](./Modifiers.html)
 
 ## The Happiness Project Links:
 
